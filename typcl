@@ -1,5 +1,6 @@
 _G.Key = "keith8080808keith808"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/blmpsaa/Klzmia/refs/heads/main/Loader.lua"))()
+
 local HttpService = game:GetService("HttpService")
 
 local req = function(data)
